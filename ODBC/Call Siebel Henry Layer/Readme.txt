@@ -1,0 +1,1 @@
+To build it, you can add this file to M:\siebel\src\core\dbutils\impexp\makefile.dcl

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ODBC Binding", "ODBC Binding\ODBC Binding.vcproj", "{269C9D9B-207F-4DFF-A8DA-322A8608F515}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "siebprocmw.exe", "Z:\siebel\bin\w32ud\siebprocmw.exe", "{C04FD243-CF22-47EB-B35A-B4E341B389B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{269C9D9B-207F-4DFF-A8DA-322A8608F515}.Debug.ActiveCfg = Debug|Win32
+		{269C9D9B-207F-4DFF-A8DA-322A8608F515}.Debug.Build.0 = Debug|Win32
+		{269C9D9B-207F-4DFF-A8DA-322A8608F515}.Release.ActiveCfg = Release|Win32
+		{269C9D9B-207F-4DFF-A8DA-322A8608F515}.Release.Build.0 = Release|Win32
+		{C04FD243-CF22-47EB-B35A-B4E341B389B1}.Debug.ActiveCfg = Debug
+		{C04FD243-CF22-47EB-B35A-B4E341B389B1}.Release.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
